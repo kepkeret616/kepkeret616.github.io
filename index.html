@@ -1,41 +1,32 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="hu">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hello this is my Show</title>
-    <style>
-        body {
-            font-family: Arial;
-        }
-        body::before {
-            content: "";
-            position: fixed;
-            top: 0;
-            left: 0;
-            height: 100%;
-            width: 100%;
-            z-index: -1;
-            background: url("Mr_frog.webp");
-            background-size: cover;
-            background-repeat: no-repeat;
-            filter: blur(5px);
-            }
-            .myshow {
-                text-align: center;
-                font-size: 50px;
-                color: white;
-                text-shadow: 2px 2px 4px #000000;
-            }
-            img {
-                display: block;
-                margin: 30px auto;
-                height: 80vh;
-            }
-    </style>
+    <title>Egyetemi Kurzusok Tech Tree</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1 class="myshow" >Hello this is my Show!</h1>
-    <img src="Mr_frog.webp" alt="image of the best actor">
+    <h1>Super menő BME Techtree</h1>
+    <div id="loadbar">
+        <div id="loadbarbody"></div>
+    </div>
+    <div id="tech-tree">
+       <!--<div class="semester" style="width: 16.7%;">
+            <div class="item">
+                <div class="name">
+                    <p>Valami más</p>
+                </div>
+                <div class="type">
+                    <p>K</p>
+                </div>
+                <div class="credit">
+                    <p>4</p>
+                </div>
+            </div>
+       </div>
+   </div>-->
+    </div>
+    <script src="script.js"></script>
 </body>
 </html>

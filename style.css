@@ -1,0 +1,108 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+#tech-tree {
+    width: 100%;
+    height: 700px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    overflow: auto;
+    margin: 0 auto;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.semester {
+    margin: auto 0;
+    float: left;
+    text-align: center;
+}
+
+.item {
+    width: 90%;
+    background: orange;
+    margin: 5px auto;
+    text-align: left;
+    transition: background-color 0.2s;
+    height: 50px;
+}
+
+.item div, .item p {
+    pointer-events: none;
+}
+
+.item .name {
+    width: 80%;
+    height: 100%;
+    float: left;
+    position: relative;
+}
+
+.item .type,.item .credit {
+    width: 20%;
+    height: 50%;
+    position: relative;
+    float: left;
+}
+
+.item .name p {
+    margin: 0;
+    padding: 10px;
+}
+
+.item .type p, .item .credit p {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.item.finished {
+    background-color: green;
+}
+
+.item.closed {
+    background-color: gray;
+}
+
+.item:hover {
+    background-color:rgb(42, 224, 224);
+}
+
+.item.highlight {
+    background-color: red;
+}
+
+.item.req {
+    opacity: 50%;
+}
+
+#loadbar {
+    height: 10px;
+    position: relative;
+    margin: 3px 0px;
+}
+
+#loadbarbody {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    transition: width ease-in-out 0.5s;
+}
+
+#loadbar .divider {
+    position: absolute;
+    height: 100%;
+    border-right: 1px solid black;
+}
