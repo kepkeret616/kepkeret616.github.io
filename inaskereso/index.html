@@ -59,17 +59,23 @@
             float: left;
             height: 100%;
         }
+        #inputcont {
+            width: 100%;
+            text-align: center;
+        }
     </style>
 </head>
 <body onload="">
     <h1>Inaskereső v2</h1>
-    <input id="input" class="first" list="dlist" placeholder="Az inas neve" oninput="onInput()">
-    <datalist id="dlist"></datalist>
+    <div id="inputcont">
+        <input id="input" class="first" list="dlist" placeholder="Az inas neve" oninput="onInput()">
+        <input id="input2" class="first" list="dlist2" placeholder="Start typing..." oninput="onInput2()">
+    </div>
 
-    <input id="input2" class="first" list="dlist2" placeholder="Start typing..." oninput="onInput2()">
-    <datalist id="dlist2"></datalist>
     <div id="plots"></div>
+    <datalist id="dlist"></datalist>
     <script src="script.js"></script>
+    <datalist id="dlist2"></datalist>
     <script>
         window.onload = init();
     </script>
