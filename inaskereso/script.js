@@ -1,6 +1,3 @@
-var csv_file = 'toplists/Férfi 400 méter gát.csv';
-
-//read csv File
 
 var filenames = ['Női Diszkoszvetés',
     'Női 5000 méter fedett pálya',
@@ -238,22 +235,34 @@ var filenames = ['Női Diszkoszvetés',
 
 allData = {};
 
-filenames.forEach(function (filename) {
-    var csv = readTextFile('../toplists/' + filename + '.csv');
-    var lines = csv.split("\n");
-    var result = [];
-    var headers = lines[0].split(",");
-    for (var i = 1; i < lines.length; i++) {
-        var obj = {};
-        var currentline = lines[i].split(",");
-        for (var j = 0; j < headers.length; j++) {
-            obj[headers[j]] = currentline[j];
-        }
-        result.push(obj);
-    }
-    allData[filename] = result;
-});
+function init() {
 
+    filenames.forEach(function (filename) {
+        var csv = readTextFile('toplists/' + filename + '.csv');
+        var lines = csv.split("\n");
+        var result = [];
+        var headers = lines[0].split(",");
+        for (var i = 1; i < lines.length; i++) {
+            var obj = {};
+            var currentline = lines[i].split(",");
+            for (var j = 0; j < headers.length; j++) {
+                obj[headers[j]] = currentline[j];
+            }
+            result.push(obj);
+        }
+        allData[filename] = result;
+    });
+
+    var allnames = findNames();
+
+    var list = document.getElementById("dlist");
+    allnames.forEach(function(item){
+        var option = document.createElement('option');
+        option.value = item;
+        list.appendChild(option);
+    });
+
+}
 function findNames() {
     var allname = []
 
@@ -475,12 +484,3 @@ function ChangePlot(name, key, div) {
     });
     tablecount++;
 }
-
-var allnames = findNames();
-
-var list = document.getElementById("dlist");
-allnames.forEach(function(item){
-    var option = document.createElement('option');
-    option.value = item;
-    list.appendChild(option);
- });
