@@ -1,4 +1,4 @@
-var csv_file = '/toplists/Férfi 400 méter gát.csv';
+var csv_file = 'toplists/Férfi 400 méter gát.csv';
 
 //read csv File
 
