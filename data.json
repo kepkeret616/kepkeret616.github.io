@@ -1,0 +1,554 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "name": "Kísérleti fizika 1",
+            "credit": 5,
+            "semester": 1,
+            "requirements": [],
+            "type": "k"
+        },
+        {
+            "id": 2,
+            "name": "Matematika ismeretfelmérés",
+            "credit": 0,
+            "semester": 1,
+            "requirements": [],
+            "type": "k"
+        },
+        {
+            "id": 3,
+            "name": "Analízis fizikusoknak",
+            "credit": 7,
+            "semester": 1,
+            "requirements": [],
+            "type": "k"
+        },
+        {
+            "id": 4,
+            "name": "Bevezető laboratórium",
+            "credit": 3,
+            "semester": 1,
+            "requirements": [],
+            "type": "k"
+        },
+        {
+            "id": 5,
+            "name": "Kísérleti fizika gyakorlat 1",
+            "credit": 3,
+            "semester": 1,
+            "requirements": [],
+            "type": "k"
+        },
+        {
+            "id": 6,
+            "name": "Fizika feladatok megoldása 1",
+            "credit": 3,
+            "semester": 1,
+            "requirements": [],
+            "type": "k"
+        },
+        {
+            "id": 7,
+            "name": "Fizika ismeretfelmérés",
+            "credit": 0,
+            "semester": 1,
+            "requirements": [],
+            "type": "k"
+        },
+        {
+            "id": 8,
+            "name": "Programozás",
+            "credit": 4,
+            "semester": 1,
+            "requirements": [],
+            "type": "k"
+        },
+        {
+            "id": 9,
+            "name": "Számítási módszerek a fizikában 1",
+            "credit": 7,
+            "semester": 1,
+            "requirements": [],
+            "type": "k"
+        },
+        {
+            "id": 10,
+            "name": "Kísérleti fizika gyakorlat 2",
+            "credit": 3,
+            "semester": 2,
+            "requirements": [
+                9,
+                7
+            ],
+            "type": "k"
+        },
+        {
+            "id": 11,
+            "name": "Testnevelés BSc - 1/A",
+            "credit": 0,
+            "semester": 2,
+            "requirements": [],
+            "type": "k"
+        },
+        {
+            "id": 12,
+            "name": "Többváltozós analízis fizikusoknak",
+            "credit": 5,
+            "semester": 2,
+            "requirements": [
+                2,
+                3
+            ],
+            "type": "k"
+        },
+        {
+            "id": 13,
+            "name": "Numerikus számítások fizikusoknak",
+            "credit": 2,
+            "semester": 2,
+            "requirements": [
+                2,
+                9
+            ],
+            "type": "k"
+        },
+        {
+            "id": 14,
+            "name": "Fizika laboratórium 1",
+            "credit": 4,
+            "semester": 2,
+            "requirements": [
+                1,
+                4
+            ],
+            "type": "k"
+        },
+        {
+            "id": 15,
+            "name": "Számítási módszerek a fizikában 2",
+            "credit": 7,
+            "semester": 2,
+            "requirements": [
+                2,
+                3,
+                9
+            ],
+            "type": "k"
+        },
+        {
+            "id": 16,
+            "name": "Kísérleti fizika 2",
+            "credit": 5,
+            "semester": 2,
+            "requirements": [
+                9,
+                7,
+                5
+            ],
+            "type": "k"
+        },
+        {
+            "id": 17,
+            "name": "Programozás 2",
+            "credit": 4,
+            "semester": 2,
+            "requirements": [
+                8
+            ],
+            "type": "k"
+        },
+        {
+            "id": 18,
+            "name": "Mechanika 1",
+            "credit": 2,
+            "semester": 3,
+            "requirements": [
+                9,
+                1,
+                15
+            ],
+            "type": "k"
+        },
+        {
+            "id": 19,
+            "name": "Mechanika gyakorlat 1",
+            "credit": 3,
+            "semester": 3,
+            "requirements": [
+                9,
+                1
+            ],
+            "type": "k"
+        },
+        {
+            "id": 20,
+            "name": "Méréstechnika",
+            "credit": 2,
+            "semester": 3,
+            "requirements": [
+                9
+            ],
+            "type": "k"
+        },
+        {
+            "id": 21,
+            "name": "Kísérleti fizika 3",
+            "credit": 5,
+            "semester": 3,
+            "requirements": [
+                1,
+                15,
+                16
+            ],
+            "type": "k"
+        },
+        {
+            "id": 22,
+            "name": "Valószínűségszámítás fizikusoknak",
+            "credit": 4,
+            "semester": 3,
+            "requirements": [
+                9,
+                12
+            ],
+            "type": "k"
+        },
+        {
+            "id": 23,
+            "name": "Modern matematikai módszerek a fizikában",
+            "credit": 5,
+            "semester": 3,
+            "requirements": [
+                15,
+                12
+            ],
+            "type": "k"
+        },
+        {
+            "id": 24,
+            "name": "Elektronika",
+            "credit": 2,
+            "semester": 3,
+            "requirements": [
+                16
+            ],
+            "type": "k"
+        },
+        {
+            "id": 25,
+            "name": "Fizika laboratórium 2",
+            "credit": 5,
+            "semester": 3,
+            "requirements": [
+                14
+            ],
+            "type": "k"
+        },
+        {
+            "id": 26,
+            "name": "Haladó fizika laboratórium 1",
+            "credit": 5,
+            "semester": 4,
+            "requirements": [
+                25,
+                21
+            ],
+            "type": "k"
+        },
+        {
+            "id": 27,
+            "name": "Tudományos programozás",
+            "credit": 4,
+            "semester": 4,
+            "requirements": [
+                17
+            ],
+            "type": "k"
+        },
+        {
+            "id": 28,
+            "name": "Kísérleti magfizika",
+            "credit": 3,
+            "semester": 4,
+            "requirements": [],
+            "type": "k"
+        },
+        {
+            "id": 29,
+            "name": "Kvantummechanika gyakorlat 1",
+            "credit": 3,
+            "semester": 4,
+            "requirements": [
+                23,
+                18
+            ],
+            "type": "k"
+        },
+        {
+            "id": 30,
+            "name": "Kvantummechanika 1",
+            "credit": 3,
+            "semester": 4,
+            "requirements": [
+                23,
+                18
+            ],
+            "type": "k"
+        },
+        {
+            "id": 31,
+            "name": "Áramlástan",
+            "credit": 3,
+            "semester": 4,
+            "requirements": [
+                18
+            ],
+            "type": "k"
+        },
+        {
+            "id": 32,
+            "name": "A végeselem modellezés alapjai és alkalmazásai",
+            "credit": 3,
+            "semester": 4,
+            "requirements": [
+                9
+            ],
+            "type": "k"
+        },
+        {
+            "id": 33,
+            "name": "Mechanika gyakorlat 2",
+            "credit": 3,
+            "semester": 4,
+            "requirements": [
+                18
+            ],
+            "type": "k"
+        },
+        {
+            "id": 34,
+            "name": "Számítógépes mérésvezérlés",
+            "credit": 3,
+            "semester": 4,
+            "requirements": [
+                8
+            ],
+            "type": "k"
+        },
+        {
+            "id": 35,
+            "name": "Elektronika laboratórium",
+            "credit": 2,
+            "semester": 4,
+            "requirements": [
+                16
+            ],
+            "type": "k"
+        },
+        {
+            "id": 36,
+            "name": "Kémia",
+            "credit": 2,
+            "semester": 4,
+            "requirements": [],
+            "type": "k"
+        },
+        {
+            "id": 37,
+            "name": "Mechanika 2",
+            "credit": 2,
+            "semester": 4,
+            "requirements": [
+                18
+            ],
+            "type": "k"
+        },
+        {
+            "id": 38,
+            "name": "Kísérleti fizika szigorlat",
+            "credit": 0,
+            "semester": 4,
+            "requirements": [
+                16,
+                21,
+                28
+            ],
+            "type": "k"
+        },
+        {
+            "id": 39,
+            "name": "Haladó fizika laboratórium 2",
+            "credit": 5,
+            "semester": 5,
+            "requirements": [
+                14,
+                21,
+                28
+            ],
+            "type": "k"
+        },
+        {
+            "id": 40,
+            "name": "Csoportelmélet fizikusoknak",
+            "credit": 5,
+            "semester": 5,
+            "requirements": [
+                15
+            ],
+            "type": "k"
+        },
+        {
+            "id": 41,
+            "name": "Optika",
+            "credit": 4,
+            "semester": 5,
+            "requirements": [
+                16
+            ],
+            "type": "k"
+        },
+        {
+            "id": 42,
+            "name": "Műszaki és fizikai problémák számítógépes megoldása",
+            "credit": 3,
+            "semester": 5,
+            "requirements": [
+                15,
+                13
+            ],
+            "type": "k"
+        },
+        {
+            "id": 43,
+            "name": "Kvantummechanika gyakorlat 2",
+            "credit": 3,
+            "semester": 5,
+            "requirements": [
+                30
+            ],
+            "type": "k"
+        },
+        {
+            "id": 44,
+            "name": "Elektrodinamika gyakorlat 1",
+            "credit": 3,
+            "semester": 5,
+            "requirements": [
+                23,
+                16
+            ],
+            "type": "k"
+        },
+        {
+            "id": 45,
+            "name": "Elektrodinamika 1",
+            "credit": 2,
+            "semester": 5,
+            "requirements": [
+                23,
+                16
+            ],
+            "type": "k"
+        },
+        {
+            "id": 46,
+            "name": "Szilárdtestfizika gyakorlat",
+            "credit": 2,
+            "semester": 5,
+            "requirements": [
+                29
+            ],
+            "type": "k"
+        },
+        {
+            "id": 47,
+            "name": "Szilárdtestfizika alapjai",
+            "credit": 2,
+            "semester": 5,
+            "requirements": [
+                29
+            ],
+            "type": "k"
+        },
+        {
+            "id": 48,
+            "name": "Kvantummechanika 2",
+            "credit": 2,
+            "semester": 5,
+            "requirements": [
+                30
+            ],
+            "type": "k"
+        },
+        {
+            "id": 49,
+            "name": "Szakdolgozat-készítés",
+            "credit": 10,
+            "semester": 6,
+            "requirements": [],
+            "type": "k"
+        },
+        {
+            "id": 50,
+            "name": "Relativitáselmélet",
+            "credit": 3,
+            "semester": 6,
+            "requirements": [
+                18,
+                45
+            ],
+            "type": "k"
+        },
+        {
+            "id": 51,
+            "name": "Statisztikus fizika gyakorlat 1",
+            "credit": 3,
+            "semester": 6,
+            "requirements": [
+                21,
+                22,
+                30
+            ],
+            "type": "k"
+        },
+        {
+            "id": 52,
+            "name": "Statisztikus fizika 1",
+            "credit": 2,
+            "semester": 6,
+            "requirements": [
+                21,
+                22,
+                30
+            ],
+            "type": "k"
+        },
+        {
+            "id": 53,
+            "name": "Elméleti szilárdtestfizika",
+            "credit": 2,
+            "semester": 6,
+            "requirements": [
+                47
+            ],
+            "type": "k"
+        },
+        {
+            "id": 54,
+            "name": "Szeminárium",
+            "credit": 2,
+            "semester": 6,
+            "requirements": [],
+            "type": "k"
+        },
+        {
+            "id": 55,
+            "name": "Testnevelés BSc - 2/A",
+            "credit": 0,
+            "semester": 3,
+            "requirements": [],
+            "type": "k"
+        }
+    ]
+}
