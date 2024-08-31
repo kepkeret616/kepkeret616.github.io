@@ -239,7 +239,7 @@ var filenames = ['Női Diszkoszvetés',
 allData = {};
 
 filenames.forEach(function (filename) {
-    var csv = readTextFile('/toplists/' + filename + '.csv');
+    var csv = readTextFile('toplists/' + filename + '.csv');
     var lines = csv.split("\n");
     var result = [];
     var headers = lines[0].split(",");
