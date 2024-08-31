@@ -169,7 +169,6 @@ function ChangePlot(name, key, div) {
     for (var i = 0; i < eredmeny.length; i++) {
         if (eredmeny[i].includes(':')) {
             var u = eredmeny[i].split(':');
-            console.log(u);
             var t = u[1].split('.');
             var time = new Date(0, 0, 0, 0, u[0], t[0], t[1]*10);
             eredmeny[i] = time;
@@ -245,7 +244,6 @@ function ChangePlot(name, key, div) {
     div.appendChild(div2);
 
     var u = plot.offsetHeight*0.8;
-    console.log(u);
 
     new DataTable('#table'+tablecount, {
         searching: false,
