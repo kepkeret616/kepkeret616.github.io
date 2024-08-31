@@ -1,0 +1,799 @@
+Eredmény,A.h.,Er.h.,Csapat,Típus,Helyszín,Dátum
+40.61,1,1,Szolnoki MÁV SE,F,Székesfehérvár (HUN),2016.7.29
+41.37,2,2,Hungary U20,F,Miskolc (HUN),2016.7.01
+41.66,3,3,Hungary U23,F,Maribor (SLO),2016.7.15
+41.7,4,4,GEAC-Ikarus BSE,F2,Debrecen (HUN),2016.5.14
+41.7,4,4,Bp. Honvéd SE,F,Székesfehérvár (HUN),2016.7.29
+41.86,6,6,ARAK UP Akadémia U20,F,Budapest (HUN),2016.5.21
+41.89,7,7,Haladás VSE,F,Székesfehérvár (HUN),2016.7.29
+41.99,8,8,Pannónia Príma A,F1,Szekszárd (HUN),2016.5.14
+42.15,9,9,Konok Kunok,F2,Debrecen (HUN),2016.5.14
+42.18,10,10,Viharsarok,F1,Debrecen (HUN),2016.5.14
+42.19,-,11,Konok Kunok,F2,Székesfehérvár (HUN),2016.9.1
+42.31,11,12,Zalaszám-ZAC,F,Székesfehérvár (HUN),2016.7.29
+42.35,12,13,Haladás VSE U23,F,Szombathely (HUN),2016.6.25
+42.36,-,14,GEAC-Ikarus BSE,F1,Székesfehérvár (HUN),2016.9.1
+42.39,13,15,Pannónia Príma,F1,Székesfehérvár (HUN),2016.9.1
+42.4,14,16,Szolnoki MÁV SE U23,F,Szombathely (HUN),2016.6.25
+42.48,15,17,BHSE-KSI SE,F1,Debrecen (HUN),2016.5.14
+42.49,16,18,Pannonia Príma B,F2,Szekszárd (HUN),2016.5.14
+42.54,-,19,BHSE-KSI SE,F1,Székesfehérvár (HUN),2016.9.1
+42.61,17,20,TE,F,Miskolc (HUN),2016.5.28
+42.7,18,21,DSC-SI - NYSC,F1,Debrecen (HUN),2016.5.14
+42.79,19,22,Bp. Honvéd SE U20,F,Budapest (HUN),2016.5.21
+42.8,20,23,Pannon Duo,F1,Székesfehérvár (HUN),2016.9.1
+42.83,21,24,Zalaszám-ZAC U20,F,Budapest (HUN),2016.5.21
+42.89,22,25,FTC B,F2,Debrecen (HUN),2016.5.14
+42.9,23,26,NYME,F,Miskolc (HUN),2016.5.28
+42.94,24,27,Haladás VSE U20,F,Budapest (HUN),2016.5.21
+42.96,-,28,Pannon Duo,F1,Szekszárd (HUN),2016.5.14
+43.22,25,29,Bakony-Balaton Team,F2,Szekszárd (HUN),2016.5.14
+43.33,26,30,UTE-MTK,F1,Székesfehérvár (HUN),2016.9.1
+43.48,27,31,Dunamentiek,F1,Debrecen (HUN),2016.5.14
+43.6,-,32,DSC-SI - NYSC,F1,Székesfehérvár (HUN),2016.9.1
+43.72,28,33,VASAS-TFSE,F1,Szekszárd (HUN),2016.5.14
+43.75,-,34,Pannonia Príma B,F2,Székesfehérvár (HUN),2016.9.1
+43.94,29,35,Egri Sportiskola SE U20,F,Budapest (HUN),2016.5.21
+44.01,30,36,FTC A,F2,Debrecen (HUN),2016.5.14
+44.05,31,37,Dunakeszi VSE U18,F,Budapest (HUN),2016.5.21
+44.13,32,38,PTE,F,Miskolc (HUN),2016.5.28
+44.24,33,39,MVSI-Tiszaújvárosi SC,F2,Debrecen (HUN),2016.5.14
+44.31,34,40,Bp. Honvéd SE U23,F,Szombathely (HUN),2016.6.25
+44.46,35,41,Ikarus BSE U18,H1,Budapest (HUN),2016.5.21
+44.66,36,42,Vasas U18,F,Budapest (HUN),2016.5.21
+44.67,-,43,VASAS-TFSE,F2,Székesfehérvár (HUN),2016.9.1
+44.85,37,44,NYSC U18,H2,Budapest (HUN),2016.5.21
+44.88,-,45,Dunakeszi VSE U18,H1,Budapest (HUN),2016.5.21
+44.89,-,46,NYSC U18,F,Budapest (HUN),2016.5.21
+44.92,38,47,Mecsekalja,F2,Szekszárd (HUN),2016.5.14
+44.94,-,48,Vasas U18,H2,Budapest (HUN),2016.5.21
+45.08,39,49,TSC-Geotech U18,H2,Budapest (HUN),2016.5.21
+45.1,-,50,Dunamentiek,F2,Székesfehérvár (HUN),2016.9.1
+45.17,-,51,TSC-Geotech U18,F,Budapest (HUN),2016.5.21
+45.2,40,52,BO-KA,F2,Székesfehérvár (HUN),2016.9.1
+45.3,41,53,Budaörsi SC,F1,Szekszárd (HUN),2016.5.14
+45.33,-,54,BO-KA,F2,Szekszárd (HUN),2016.5.14
+45.6,42,55,Szekszárd-Mohács,F1,Szekszárd (HUN),2016.5.14
+45.6,42,55,Vasas U16,F,Budapest (HUN),2016.5.21
+46.03,44,57,Hungary U16,F,Trnava (SVK),2016.9.24
+46.06,45,58,SZTE,F,Miskolc (HUN),2016.5.28
+46.08,-,59,Ikarus BSE U18,F,Budapest (HUN),2016.5.21
+46.1,-,60,Vasas U16,H2,Budapest (HUN),2016.5.21
+46.19,46,61,UTE U18,H2,Budapest (HUN),2016.5.21
+46.24,47,62,FTC U18,H1,Budapest (HUN),2016.5.21
+46.36,48,63,ARAK UP Akadémia U16,F,Budapest (HUN),2016.5.21
+46.44,49,64,Békési DAC,F1,Debrecen (HUN),2016.5.14
+46.51,-,65,UTE U18,F,Budapest (HUN),2016.5.21
+46.71,-,66,ARAK UP Akadémia U16,H1,Budapest (HUN),2016.5.21
+46.93,-,67,ARAK UP Akadémia U16,F1,Székesfehérvár (HUN),2016.9.1
+47.09,50,68,KSI SE U16,F1,Székesfehérvár (HUN),2016.9.1
+47.18,51,69,Keszthelyi VDSE U16,H1,Budapest (HUN),2016.5.21
+47.32,52,70,Albertirsai SE U18,F,Budapest (HUN),2016.5.21
+47.45,53,71,MAFC,F2,Debrecen (HUN),2016.5.14
+47.58,54,72,NYSC U16,F,Budapest (HUN),2016.5.21
+47.61,55,73,UTE U16,F,Budapest (HUN),2016.5.21
+47.75,-,74,UTE U16,H2,Budapest (HUN),2016.5.21
+47.78,56,75,Szekszárdi SK Nkft. U16,F2,Székesfehérvár (HUN),2016.9.1
+47.82,57,76,Szolnoki SC-SI U16,F,Budapest (HUN),2016.5.21
+47.83,-,77,NYSC U16,F1,Székesfehérvár (HUN),2016.9.1
+48.02,58,78,TSC-Geotech U16,F1,Székesfehérvár (HUN),2016.9.1
+48.06,-,79,Szolnoki SC-SI U16,H2,Budapest (HUN),2016.5.21
+48.23,-,80,Albertirsai SE U18,H1,Budapest (HUN),2016.5.21
+48.28,59,81,Németh Pál Dobóakadémia,F2,Szekszárd (HUN),2016.5.14
+48.31,60,82,Szombathelyi SI U16,F2,Székesfehérvár (HUN),2016.9.1
+48.39,-,83,NYSC U16,H2,Budapest (HUN),2016.5.21
+48.43,61,84,Zalaszám-ZAC U16,H2,Budapest (HUN),2016.5.21
+48.44,62,85,Keszthelyi VDSE,F2,Szekszárd (HUN),2016.5.14
+48.44,-,85,Zalaszám-ZAC U16,F,Budapest (HUN),2016.5.21
+48.44,62,85,DSC-SI U16,F1,Székesfehérvár (HUN),2016.9.1
+48.51,64,88,Bp. Honvéd SE U16,F1,Székesfehérvár (HUN),2016.9.1
+48.75,-,89,UTE U16,F2,Székesfehérvár (HUN),2016.9.1
+49.2,65,90,FTC U16,F2,Székesfehérvár (HUN),2016.9.1
+49.25,66,91,Reménység Vác U16,F2,Székesfehérvár (HUN),2016.9.1
+49.43,-,92,FTC U16,F,Budapest (HUN),2016.5.21
+50.07,-,93,Zalaszám-ZAC U16,F2,Székesfehérvár (HUN),2016.9.1
+50.4,-,94,FTC U16,H1,Budapest (HUN),2016.5.21
+50.51,67,95,Dunakeszi VSE U16,H1,Budapest (HUN),2016.5.21
+50.83,68,96,Ikarus BSE U16,H1,Budapest (HUN),2016.5.21
+39.97,1,1,Hungary,F1,Tel Aviv (ISR),2017.6.24
+40.04,2,2,Hungary U23,H2,Bydgoszcz (POL),2017.7.16
+40.41,-,3,Hungary,F,Debrecen (HUN),2017.5.2
+40.78,-,4,Hungary,F,Budapest (HUN),2017.6.3
+41.1,3,5,Hungary U20,H2,Grosseto (ITA),2017.7.23
+41.28,4,6,Hungary B,F,Debrecen (HUN),2017.5.2
+41.46,-,7,Hungary U20,F,Trnava (SVK),2017.7.06
+41.53,5,8,ARAK UP Akadémia,F,Székesfehérvár (HUN),2017.6.09
+41.62,6,9,Zalaszám-ZAC,F,Székesfehérvár (HUN),2017.6.09
+41.71,7,10,Pannónia Príma A,F1,Szekszárd (HUN),2017.5.13
+41.83,8,11,Haladás VSE,F,Székesfehérvár (HUN),2017.6.09
+41.86,9,12,Bp. Honvéd SE,F,Székesfehérvár (HUN),2017.6.09
+41.92,10,13,Konok Kunok,F1,Székesfehérvár (HUN),2017.9.09
+41.99,11,14,Bp. Honvéd SE B,F1,Miskolc (HUN),2017.5.13
+42.02,-,15,Pannónia Príma A,F2,Székesfehérvár (HUN),2017.9.09
+42.07,12,16,Pannon Duo,F2,Székesfehérvár (HUN),2017.9.09
+42.07,12,16,Viharsarok,F2,Székesfehérvár (HUN),2017.9.09
+42.24,-,18,Viharsarok,F2,Miskolc (HUN),2017.5.13
+42.41,-,19,Bp. Honvéd SE,F2,Székesfehérvár (HUN),2017.9.09
+42.43,-,20,Bp. Honvéd SE B,F1,Székesfehérvár (HUN),2017.9.09
+42.55,-,21,Bp. Honvéd SE,F2,Miskolc (HUN),2017.5.13
+42.59,14,22,Pannonia Príma B,F2,Szekszárd (HUN),2017.5.13
+42.64,-,23,Pannonia Príma B,F1,Székesfehérvár (HUN),2017.9.09
+42.74,15,24,FTC A,F2,Miskolc (HUN),2017.5.13
+42.75,-,25,Pannon Duo,F1,Szekszárd (HUN),2017.5.13
+42.76,-,26,FTC A,F2,Székesfehérvár (HUN),2017.9.09
+42.92,16,27,SavArra,F1,Szekszárd (HUN),2017.5.13
+42.95,-,28,Konok Kunok,F2,Miskolc (HUN),2017.5.13
+43.04,17,29,GEAC-Ikarus BSE,F2,Miskolc (HUN),2017.5.13
+43.09,18,30,ARAK UP Akadémia U23,F,Budapest (HUN),2017.6.17
+43.18,19,31,Ikarus BSE U20,F,Budapest (HUN),2017.9.16
+43.19,20,32,NYSC,F,Székesfehérvár (HUN),2017.6.09
+43.29,21,33,GEAC-BEAC-IKARUS,F2,Székesfehérvár (HUN),2017.9.09
+43.32,-,34,Bp. Honvéd SE B,F,Székesfehérvár (HUN),2017.6.09
+43.34,22,35,Vasas U18,F,Budapest (HUN),2017.9.16
+43.54,23,36,NYSC U18,F,Budapest (HUN),2017.9.16
+43.55,24,37,Dunamentiek,F2,Miskolc (HUN),2017.5.13
+43.56,25,38,DSC-SI - NYSC,F2,Miskolc (HUN),2017.5.13
+43.57,26,39,ELTE,F,Miskolc (HUN),2017.5.27
+43.71,-,40,Vasas U18,H2,Budapest (HUN),2017.9.16
+43.77,27,41,Szolnoki MÁV SE U23,F,Budapest (HUN),2017.6.17
+43.8,28,42,Székesfehérvár - Tóparti Gimnázium,F1,Székesfehérvár (HUN),2017.5.27
+44.08,-,43,SavArra,F2,Székesfehérvár (HUN),2017.9.09
+44.15,29,44,Szekszárd-Mohács,F2,Szekszárd (HUN),2017.5.13
+44.16,30,45,Zalaszám-ZAC U20,F,Budapest (HUN),2017.9.16
+44.38,31,46,Hungary U16,F,Varazdin (CRO),2017.9.3
+44.46,32,47,FTC B,F1,Miskolc (HUN),2017.5.13
+44.47,33,48,MVSI-Tiszaújvárosi SC,F1,Miskolc (HUN),2017.5.13
+44.54,34,49,VASAS-TFSE,F1,Szekszárd (HUN),2017.5.13
+44.57,35,50,Keszthely VDSE U20,F,Budapest (HUN),2017.9.16
+44.59,36,51,Bonyhád Petőfi Sándor Gimnázium,F1,Székesfehérvár (HUN),2017.5.27
+44.61,37,52,Haladás VSE U23,F,Budapest (HUN),2017.6.17
+44.61,-,52,NYSC U18,H2,Budapest (HUN),2017.9.16
+44.63,38,54,Keszthelyi VDSE,F2,Szekszárd (HUN),2017.5.13
+44.7,39,55,Budapest XIII. Berzsenyi D. Gimn.,F1,Székesfehérvár (HUN),2017.5.27
+44.79,40,56,Szolnoki SC-SI U18,H2,Budapest (HUN),2017.9.16
+44.8,41,57,UTE-MTK,F1,Szekszárd (HUN),2017.5.13
+44.84,-,58,FTC B,F1,Székesfehérvár (HUN),2017.9.09
+44.84,42,58,Bp. Honvéd SE U18,H1,Budapest (HUN),2017.9.16
+44.88,43,60,BO-KA,F1,Szekszárd (HUN),2017.5.13
+44.9,-,61,UTE-MTK,F2,Székesfehérvár (HUN),2017.9.09
+44.93,44,62,AC Bonyhád U18,F,Budapest (HUN),2017.9.16
+44.97,45,63,Dunakeszi VSE U20,F,Budapest (HUN),2017.9.16
+44.99,46,64,PTE,F,Miskolc (HUN),2017.5.27
+45.11,47,65,Vác - Boronkay MSZKI,F1,Székesfehérvár (HUN),2017.5.27
+45.28,48,66,DOVASE U20,F,Budapest (HUN),2017.9.16
+45.3,49,67,Salgótarján Madách Imre Gimn. és Szki.,F1,Székesfehérvár (HUN),2017.5.27
+45.38,-,68,AC Bonyhád U18,H1,Budapest (HUN),2017.9.16
+45.42,50,69,Nyíregyháza Vasvári Pál Gimnázium,F2,Székesfehérvár (HUN),2017.5.27
+45.56,51,70,Zalaegerszeg Csány SZKI,F2,Székesfehérvár (HUN),2017.5.27
+45.68,52,71,Bp. Honvéd SE U16,F,Budapest (HUN),2017.9.16
+45.7,53,72,ARAK UP Akadémia U18,F,Budapest (HUN),2017.9.16
+45.71,-,73,ARAK UP Akadémia U18,H1,Budapest (HUN),2017.9.16
+45.83,54,74,Szekszárdi SK Nkft. U18,F,Budapest (HUN),2017.9.16
+45.86,55,75,Vasas U16,F,Budapest (HUN),2017.9.16
+45.87,56,76,Székesfehérvár Ciszterci Szent István Gimnázium,F2,Székesfehérvár (HUN),2017.5.27
+45.94,57,77,Dunakeszi VSE U16,F,Budapest (HUN),2017.9.16
+46.04,-,78,Szekszárdi SK Nkft. U18,H2,Budapest (HUN),2017.9.16
+46.08,58,79,Budapest Leövey Klára Gimnázium és Szakközépiskola,F2,Székesfehérvár (HUN),2017.5.27
+46.08,58,79,Szolnoki Széchenyi István Gimnázium,F1,Székesfehérvár (HUN),2017.5.27
+46.21,-,81,Szekszárd-Mohács,F2,Szekszárd (HUN),2017.5.13
+46.23,60,82,FTC U18,H1,Budapest (HUN),2017.9.16
+46.3,-,83,Bp. Honvéd SE U16,F2,Székesfehérvár (HUN),2017.9.09
+46.32,61,84,Békési DAC,F1,Miskolc (HUN),2017.5.13
+46.39,-,85,Bp. Honvéd SE U16,H1,Budapest (HUN),2017.9.16
+46.52,62,86,Tiszafüred Kossuth Lajos Gimnázium,F2,Székesfehérvár (HUN),2017.5.27
+46.7,63,87,Mecsekalja,F2,Szekszárd (HUN),2017.5.13
+46.74,-,88,Dunakeszi VSE U16,H1,Budapest (HUN),2017.9.16
+46.89,64,89,VEDAC U16,F2,Székesfehérvár (HUN),2017.9.09
+47.03,65,90,Szombathelyi SI U16,F,Budapest (HUN),2017.9.16
+47.05,66,91,Ócsa SE U16,F,Budapest (HUN),2017.9.16
+47.06,67,92,FTC U16,F,Budapest (HUN),2017.9.16
+47.07,-,93,Dunakeszi VSE U16,F1,Székesfehérvár (HUN),2017.9.09
+47.09,68,94,Dunakeszi VSE U18,H1,Budapest (HUN),2017.9.16
+47.12,-,95,Vasas U16,H1,Budapest (HUN),2017.9.16
+47.34,69,96,KSI SE U16,F1,Székesfehérvár (HUN),2017.9.09
+47.41,-,97,Ócsa SE U16,H2,Budapest (HUN),2017.9.16
+47.64,70,98,Ócsai Halászy Károly Általános Iskola,F,Székesfehérvár (HUN),2017.5.25
+47.74,-,99,FTC U16,H1,Budapest (HUN),2017.9.16
+47.84,-,100,Szombathelyi SI U16,H2,Budapest (HUN),2017.9.16
+47.84,71,100,UTE U18,H2,Budapest (HUN),2017.9.16
+47.86,72,102,Egri SSE U16,F,Budapest (HUN),2017.9.16
+48.0,-,103,Egri SSE U16,F1,Székesfehérvár (HUN),2017.9.09
+48.32,73,104,Gyulai Dürer Albert Általános Iskola,F,Székesfehérvár (HUN),2017.5.25
+48.32,-,104,Egri SSE U16,H1,Budapest (HUN),2017.9.16
+48.4,74,106,Egri Kemény Ferenc Sportiskolai Általános Iskola,F,Székesfehérvár (HUN),2017.5.25
+48.46,75,107,ARAK UP Akadémia U16,H1,Budapest (HUN),2017.9.16
+48.47,76,108,Zalaszám-ZAC U16,H2,Budapest (HUN),2017.9.16
+48.51,-,109,ARAK UP Akadémia U16,F,Budapest (HUN),2017.9.16
+48.71,-,110,Szombathelyi SI U16,F1,Székesfehérvár (HUN),2017.9.09
+49.16,77,111,Csepeli DAC U14,F,Budapest (HUN),2017.9.16
+49.36,78,112,Tatabánya Dózsakerti Váci Mihály Általános Iskola,F,Székesfehérvár (HUN),2017.5.25
+49.36,78,112,Záhonyi Árpád Vezér Általános Iskola,F,Székesfehérvár (HUN),2017.5.25
+49.37,80,114,Ikarus BSE U16,F2,Székesfehérvár (HUN),2017.9.09
+49.48,-,115,Ikarus BSE U16,H2,Budapest (HUN),2017.9.16
+49.92,-,116,FTC U16,F2,Székesfehérvár (HUN),2017.9.09
+50.38,81,117,Szekszárdi Sportközpont Nkft. U14,F,Budapest (HUN),2017.9.16
+50.8,-,118,Zalaszám-ZAC U16,F1,Székesfehérvár (HUN),2017.9.09
+50.95,82,119,Szekszárdi SK Nkft. U16,F1,Székesfehérvár (HUN),2017.9.09
+50.97,-,120,Hungary U23,F,Bydgoszcz (POL),2017.7.16
+40.54,1,1,Hungary U23,F,Kraków (POL),2018.7.08
+40.84,2,2,férfi U20 válogatott,H1,Tampere (FIN),2018.7.13
+41.12,3,3,"Bp. Honvéd SE ""A""",F2,Miskolc (HUN),2018.5.12
+41.18,-,4,"Bp. Honvéd SE ""A""",F1,Székesfehérvár (HUN),2018.6.22
+41.62,4,5,Hungary U20,F,Vyskov (CZE),2018.6.16
+41.66,5,6,Szolnoki MÁV-SE,F2,Miskolc (HUN),2018.5.12
+41.72,-,7,Szolnoki MÁV-SE,F1,Székesfehérvár (HUN),2018.6.22
+42.11,6,8,Pannónia Príma B,F2,Zalaegerszeg (HUN),2018.5.12
+42.12,7,9,Pannon Duó,F1,Zalaegerszeg (HUN),2018.5.12
+42.15,8,10,"FTC ""A""",F1,Székesfehérvár (HUN),2018.9.08
+42.16,9,11,ZALASZÁM-ZAC,F1,Székesfehérvár (HUN),2018.6.22
+42.21,10,12,Haladás VSE,F1,Székesfehérvár (HUN),2018.6.22
+42.32,-,13,Szolnoki MÁV-SE,F1,Székesfehérvár (HUN),2018.9.08
+42.34,11,14,Pannónia Príma A,F1,Zalaegerszeg (HUN),2018.5.12
+42.43,12,15,Bp. Honvéd SE,F1,Miskolc (HUN),2018.6.09
+42.53,13,16,"Bp. Honvéd SE ""B""",F1,Miskolc (HUN),2018.5.12
+42.57,14,17,"BHSE ""A""",F1,Székesfehérvár (HUN),2018.9.08
+42.59,15,18,"Pannónia Príma ""A""",F2,Székesfehérvár (HUN),2018.9.08
+42.6,16,19,GEAC-IKARUS,F1,Székesfehérvár (HUN),2018.9.08
+42.99,17,20,FTC,F1,Miskolc (HUN),2018.6.09
+43.13,18,21,DSC-SI - NYSC,F2,Miskolc (HUN),2018.5.12
+43.18,19,22,BHSE,F1,Szekszárd (HUN),2018.9.15
+43.19,20,23,Vasas 1,F1,Zalaegerszeg (HUN),2018.5.12
+43.32,21,24,"BHSE ""B""",F2,Székesfehérvár (HUN),2018.9.08
+43.35,-,25,Pannon Duó,F1,Székesfehérvár (HUN),2018.9.08
+43.47,-,26,"Bp. Honvéd SE ""B""",F1,Székesfehérvár (HUN),2018.6.22
+43.65,22,27,Vasas,H2,Szekszárd (HUN),2018.9.15
+43.67,-,28,"FTC ""A""",F1,Zalaegerszeg (HUN),2018.5.12
+43.69,23,29,GEAC,F1,Miskolc (HUN),2018.6.09
+43.7,-,30,GEAC,F1,Szekszárd (HUN),2018.9.15
+43.82,24,31,NYSC,F1,Szekszárd (HUN),2018.9.15
+43.99,-,32,DSC-SI - NYSC,F1,Székesfehérvár (HUN),2018.9.08
+44.12,25,33,Dunakeszi VSE,F1,Szekszárd (HUN),2018.9.15
+44.15,26,34,MVSI,F2,Miskolc (HUN),2018.5.12
+44.18,27,35,HUN,F1,Győr (HUN),2018.9.29
+44.36,28,36,"FTC ""B""",F2,Zalaegerszeg (HUN),2018.5.12
+44.37,29,37,Egri Sportiskola SE,F1,Miskolc (HUN),2018.5.12
+44.39,30,38,KSI SE,F2,Miskolc (HUN),2018.5.12
+44.39,30,38,Dunamentiek,F1,Székesfehérvár (HUN),2018.9.08
+44.41,32,40,férfi válogatott,F,Ostrava (CZE),2018.6.13
+44.51,-,41,"FTC ""B""",F2,Székesfehérvár (HUN),2018.9.08
+44.61,33,42,DOVASE,F1,Szekszárd (HUN),2018.9.15
+44.7,34,43,VEDAC,F1,Zalaegerszeg (HUN),2018.5.12
+44.77,35,44,BSC,F1,Szekszárd (HUN),2018.9.15
+44.91,36,45,BEAC,F1,Székesfehérvár (HUN),2018.6.22
+44.93,-,46,BHSE,F1,Szekszárd (HUN),2018.9.15
+45.01,37,47,UTE-MTK,F1,Zalaegerszeg (HUN),2018.5.12
+45.16,38,48,SVSE,F1,Zalaegerszeg (HUN),2018.5.12
+45.26,39,49,AC Bonyhád,F1,Zalaegerszeg (HUN),2018.5.12
+45.32,40,50,MTK-UTE,F1,Székesfehérvár (HUN),2018.9.08
+45.34,-,51,Dunakeszi VSE,H1,Szekszárd (HUN),2018.9.15
+45.47,41,52,Budapest,F,Budapest (HUN),2018.6.15
+45.61,42,53,Keszthely VDSE,F1,Szekszárd (HUN),2018.9.15
+45.65,43,54,ARAK UP Akadémia,H1,Szekszárd (HUN),2018.9.15
+45.66,-,55,AC Bonyhád,F1,Szekszárd (HUN),2018.9.15
+45.78,-,56,GEAC,F1,Szekszárd (HUN),2018.9.15
+45.84,-,57,BHSE,H1,Szekszárd (HUN),2018.9.15
+45.85,-,58,Keszthely VDSE,F2,Zalaegerszeg (HUN),2018.5.12
+45.85,-,58,AC Bonyhád,H1,Szekszárd (HUN),2018.9.15
+45.91,-,60,FTC,H1,Szekszárd (HUN),2018.9.15
+45.96,-,61,GEAC,H1,Szekszárd (HUN),2018.9.15
+46.03,-,62,"BHSE ""A""",F1,Székesfehérvár (HUN),2018.9.08
+46.06,-,63,Keszthely VDSE,H2,Szekszárd (HUN),2018.9.15
+46.17,-,64,VEDAC,F1,Miskolc (HUN),2018.6.09
+46.28,-,65,ARAK UP Akadémia,F1,Szekszárd (HUN),2018.9.15
+46.33,44,66,MAFC,F1,Miskolc (HUN),2018.5.12
+46.38,45,67,Csepeli DAC,F1,Székesfehérvár (HUN),2018.9.08
+46.41,46,68,Albertirsai SE,F1,Miskolc (HUN),2018.5.12
+46.84,-,69,Albertirsai SE,F1,Szekszárd (HUN),2018.9.15
+46.86,47,70,UTE,F1,Szekszárd (HUN),2018.9.15
+46.92,-,71,ARAK UP Akadémia,F1,Székesfehérvár (HUN),2018.9.08
+46.95,48,72,Szekszárdi Sportközpont Nkft.,F2,Zalaegerszeg (HUN),2018.5.12
+47.05,49,73,Psn Zrt,H1,Szekszárd (HUN),2018.9.15
+47.17,-,74,Psn Zrt,F1,Szekszárd (HUN),2018.9.15
+47.48,50,75,Szombathelyi SI,F1,Szekszárd (HUN),2018.9.15
+47.52,-,76,Szombathelyi SI,H2,Szekszárd (HUN),2018.9.15
+47.58,-,77,UTE,H2,Szekszárd (HUN),2018.9.15
+47.6,51,78,Békési DAC,F1,Miskolc (HUN),2018.5.12
+47.62,-,79,ZALASZÁM-ZAC,H2,Szekszárd (HUN),2018.9.15
+47.77,-,80,ZALASZÁM-ZAC,F1,Szekszárd (HUN),2018.9.15
+47.93,-,81,AC Bonyhád,F2,Zalaegerszeg (HUN),2018.5.12
+47.99,52,82,Ikarus BSE,F1,Székesfehérvár (HUN),2018.9.08
+48.89,-,83,Dunakeszi VSE,F1,Szekszárd (HUN),2018.9.15
+48.9,53,84,Szolnoki SC-SI,H2,Szekszárd (HUN),2018.9.15
+49.0,-,85,Szekszárdi Sportközpont Nkft.,H2,Szekszárd (HUN),2018.9.15
+49.05,-,86,Psn Zrt,F1,Székesfehérvár (HUN),2018.9.08
+49.24,-,87,Szolnoki SC-SI,F1,Szekszárd (HUN),2018.9.15
+49.29,-,88,Dunakeszi VSE,H1,Szekszárd (HUN),2018.9.15
+49.32,-,89,Szekszárdi Sportközpont Nkft.,F1,Szekszárd (HUN),2018.9.15
+49.43,-,90,Egri Sportiskola SE,H1,Szekszárd (HUN),2018.9.15
+49.5,54,91,Békéscsabai AC,F1,Székesfehérvár (HUN),2018.9.08
+49.54,-,92,SVSE,F2,Székesfehérvár (HUN),2018.9.08
+49.63,-,93,VEDAC,H2,Szekszárd (HUN),2018.9.15
+49.78,-,94,Szombathelyi SI,F2,Székesfehérvár (HUN),2018.9.08
+49.84,-,95,Egri Sportiskola SE,F1,Szekszárd (HUN),2018.9.15
+50.37,-,96,VEDAC,F1,Székesfehérvár (HUN),2018.9.08
+50.5,-,97,NYSC,F2,Székesfehérvár (HUN),2018.9.08
+50.53,-,98,UTE,F1,Szekszárd (HUN),2018.9.15
+50.57,-,99,KSI SE,F1,Szekszárd (HUN),2018.9.15
+50.79,55,100,Győri Atlétikai Club,F2,Székesfehérvár (HUN),2018.9.08
+50.93,-,101,KSI SE,H1,Szekszárd (HUN),2018.9.15
+50.97,-,102,Albertirsai SE,F2,Székesfehérvár (HUN),2018.9.08
+51.18,-,103,Szekszárdi Sportközpont Nkft.,F1,Szekszárd (HUN),2018.9.15
+51.29,-,104,"BHSE ""A""",H1,Szekszárd (HUN),2018.9.15
+51.37,-,105,UTE,H2,Szekszárd (HUN),2018.9.15
+51.96,-,106,Szekszárdi Sportközpont Nkft.,H1,Szekszárd (HUN),2018.9.15
+52.04,56,107,TSC-Geotech,F1,Szekszárd (HUN),2018.9.15
+52.39,-,108,Ikarus BSE,F1,Szekszárd (HUN),2018.9.15
+52.42,-,109,TSC-Geotech,H3,Szekszárd (HUN),2018.9.15
+52.54,-,110,Ikarus BSE,H1,Szekszárd (HUN),2018.9.15
+53.62,-,111,ZALASZÁM-ZAC,H2,Szekszárd (HUN),2018.9.15
+53.77,-,112,Vasas,F1,Szekszárd (HUN),2018.9.15
+54.14,-,113,ARAK UP Akadémia,H1,Szekszárd (HUN),2018.9.15
+55.7,-,114,UTE,H2,Szekszárd (HUN),2018.9.15
+55.77,-,115,UTE,F1,Szekszárd (HUN),2018.9.15
+56.8,57,116,Reménység Vác,H1,Szekszárd (HUN),2018.9.15
+40.96,1,1,Szolnoki MÁV-SE,F1,Budapest (HUN),2019.7.27
+41.12,-,2,Szolnoki MÁV-SE,F2,Miskolc (HUN),2019.5.11
+41.26,-,3,Szolnoki MÁV-SE,F2,Székesfehérvár (HUN),2019.9.07
+41.67,2,4,"BHSE ""A""",F1,Budapest (HUN),2019.7.27
+41.82,3,5,U23 válogatott,F1,Győr (HUN),2019.7.07
+41.86,4,6,ZALASZÁM-ZAC,F1,Budapest (HUN),2019.7.27
+41.99,5,7,BHSE,F2,Miskolc (HUN),2019.5.11
+42.02,6,8,GEAC-IKARUS,F1,Székesfehérvár (HUN),2019.9.07
+42.08,7,9,Válogatott,F1,Zalaegerszeg (HUN),2019.6.01
+42.19,8,10,FTC,F1,Budapest (HUN),2019.7.27
+42.24,9,11,U20 Válogatott,F1,Zalaegerszeg (HUN),2019.6.01
+42.26,-,12,U23 válogatott,F1,Budapest (HUN),2019.6.22
+42.35,10,13,U20 válogatott,F1,Budapest (HUN),2019.6.22
+42.39,11,14,ARAK UP Akadémia,F2,Győr (HUN),2019.5.11
+42.41,12,15,"BHSE ""B""",F1,Székesfehérvár (HUN),2019.9.07
+42.56,13,16,"Pannónia Príma ""A""",F2,Székesfehérvár (HUN),2019.9.07
+42.69,14,17,"Pannónia Príma ""B""",F1,Győr (HUN),2019.5.11
+42.72,-,18,"BHSE ""A""",F1,Székesfehérvár (HUN),2019.9.07
+42.83,15,19,"FTC ""A""",F1,Székesfehérvár (HUN),2019.9.07
+42.89,-,20,"BHSE ""A""",F1,Zalaegerszeg (HUN),2019.6.02
+42.91,16,21,Vasas,F1,Zalaegerszeg (HUN),2019.6.02
+42.91,16,21,Horn-Bercsényi DSE,F1,Budapest (HUN),2019.7.27
+42.94,-,23,"FTC ""A""",F2,Győr (HUN),2019.5.11
+42.97,18,24,PSN - DOVASE,F1,Győr (HUN),2019.5.11
+43.15,19,25,DOVASE,F1,Zalaegerszeg (HUN),2019.6.02
+43.34,20,26,DSC-SI - NYSC,F2,Miskolc (HUN),2019.5.11
+43.37,21,27,Dunafok / A,F2,Győr (HUN),2019.5.11
+43.41,22,28,Egri Sportiskola SE,F2,Miskolc (HUN),2019.5.11
+43.45,-,29,ZALASZÁM-ZAC,F1,Zalaegerszeg (HUN),2019.7.2
+43.49,23,30,"FTC ""B""",F1,Székesfehérvár (HUN),2019.9.07
+43.54,24,31,Hungary U16,F,Ptuj (SLO),2019.9.28
+43.55,-,32,"BHSE ""A""",H1,Zalaegerszeg (HUN),2019.6.02
+43.58,25,33,Haladás VSE,F1,Budapest (HUN),2019.6.15
+43.64,-,34,"Pannónia Príma ""B""",F2,Székesfehérvár (HUN),2019.9.07
+43.67,26,35,SavArrA,F2,Győr (HUN),2019.5.11
+43.67,-,35,"BHSE ""B""",F1,Budapest (HUN),2019.7.27
+43.67,-,35,ARAK UP Akadémia,F1,Székesfehérvár (HUN),2019.9.07
+43.73,-,38,DOVASE,H2,Zalaegerszeg (HUN),2019.6.02
+43.74,27,39,Vasas A,F2,Győr (HUN),2019.5.11
+43.86,28,40,Miskolci Sportiskola,F2,Miskolc (HUN),2019.5.11
+44.0,-,41,Miskolci Sportiskola,F2,Székesfehérvár (HUN),2019.9.07
+44.07,29,42,KSI SE,F2,Miskolc (HUN),2019.5.11
+44.1,-,43,Vasas,H1,Zalaegerszeg (HUN),2019.6.02
+44.18,-,44,Vasas,F1,Zalaegerszeg (HUN),2019.6.02
+44.35,-,45,"FTC ""B""",F1,Győr (HUN),2019.5.11
+44.42,30,46,Vasas B,F1,Győr (HUN),2019.5.11
+44.45,-,47,ARAK UP Akadémia,F1,Zalaegerszeg (HUN),2019.6.02
+44.83,-,48,Horn-Bercsényi DSE,F1,Zalaegerszeg (HUN),2019.6.02
+44.98,-,49,ARAK UP Akadémia,F1,Zalaegerszeg (HUN),2019.6.02
+45.05,31,50,Ikarus BSE,F1,Zalaegerszeg (HUN),2019.6.02
+45.14,-,51,ARAK UP Akadémia,F1,Zalaegerszeg (HUN),2019.6.02
+45.18,-,52,ZALASZÁM-ZAC,H2,Zalaegerszeg (HUN),2019.6.02
+45.21,-,53,Ikarus BSE,H2,Zalaegerszeg (HUN),2019.6.02
+45.32,-,54,SavArrA,F2,Székesfehérvár (HUN),2019.9.07
+45.54,-,55,ARAK UP Akadémia,H1,Zalaegerszeg (HUN),2019.6.02
+45.58,-,56,ZALASZÁM-ZAC,F1,Zalaegerszeg (HUN),2019.6.02
+45.58,32,56,Dunakeszi VSE,F1,Budapest (HUN),2019.6.22
+45.59,33,58,U23 Válogatott,F1,Zalaegerszeg (HUN),2019.6.01
+45.61,-,59,KSI SE,H2,Zalaegerszeg (HUN),2019.6.02
+45.73,34,60,MTK-UTE,F2,Győr (HUN),2019.5.11
+45.89,35,61,Keszthely VDSE,F1,Zalaegerszeg (HUN),2019.6.02
+45.95,-,62,"BHSE ""B""",H2,Zalaegerszeg (HUN),2019.6.02
+46.09,-,63,ARAK UP Akadémia,F1,Székesfehérvár (HUN),2019.9.07
+46.34,-,64,"BHSE ""B""",F1,Zalaegerszeg (HUN),2019.6.02
+46.47,-,65,KSI SE,F1,Zalaegerszeg (HUN),2019.6.02
+46.58,36,66,Albertirsai SE,F1,Miskolc (HUN),2019.5.11
+46.58,-,66,Ikarus BSE,F1,Zalaegerszeg (HUN),2019.6.02
+46.72,-,68,Vasas,F1,Budapest (HUN),2019.6.15
+46.83,37,69,TFSE,F2,Miskolc (HUN),2019.5.11
+46.94,38,70,POSTÁS SE,F2,Miskolc (HUN),2019.5.11
+47.02,39,71,UTE,F1,Zalaegerszeg (HUN),2019.6.02
+47.04,40,72,Csepeli DAC,F1,Székesfehérvár (HUN),2019.9.07
+47.19,41,73,Szolnoki SC-SI,H1,Zalaegerszeg (HUN),2019.6.02
+47.19,41,73,Békéscsabai AC,F1,Székesfehérvár (HUN),2019.9.07
+47.55,-,75,ZALASZÁM-ZAC,F1,Zalaegerszeg (HUN),2019.6.02
+47.69,43,76,Szekszárdi Sportközpont NKft.,F1,Zalaegerszeg (HUN),2019.6.02
+47.77,44,77,NYSC,F1,Székesfehérvár (HUN),2019.9.07
+47.83,45,78,TSC-Geotech,F1,Zalaegerszeg (HUN),2019.6.02
+48.01,-,79,UTE,F1,Székesfehérvár (HUN),2019.9.07
+48.49,46,80,VEDAC,H1,Zalaegerszeg (HUN),2019.6.02
+48.77,47,81,GEAC,F2,Székesfehérvár (HUN),2019.9.07
+49.24,48,82,ELTE SE Sashegyi gepárdok,F1,Miskolc (HUN),2019.5.11
+49.32,-,83,Keszthely VDSE,F1,Győr (HUN),2019.5.11
+49.66,-,84,TSC-Geotech,F1,Székesfehérvár (HUN),2019.9.07
+50.02,49,85,Veresegyház VSK,F2,Székesfehérvár (HUN),2019.9.07
+50.09,50,86,MAFC,F1,Miskolc (HUN),2019.5.11
+50.64,-,87,BHSE,F1,Székesfehérvár (HUN),2019.9.07
+51.69,-,88,ARAK UP Akadémia,F1,Zalaegerszeg (HUN),2019.6.02
+51.96,-,89,GEAC,F1,Zalaegerszeg (HUN),2019.6.02
+52.2,-,90,Dunakeszi VSE,F2,Székesfehérvár (HUN),2019.9.07
+52.53,51,91,Hajós Alfréd DSE,F1,Zalaegerszeg (HUN),2019.6.02
+54.52,-,92,Szekszárdi Sportközpont NKft.,F1,Zalaegerszeg (HUN),2019.6.02
+40.55,1,1,U20 válogatott,F1,Budapest (HUN),2020.9.12
+40.9,2,2,BHSE,F1,Budapest (HUN),2020.8.08
+41.04,3,3,U23 válogatott,F1,Budapest (HUN),2020.8.29
+41.18,4,4,Szolnoki MÁV-SE,F1,Budapest (HUN),2020.8.08
+41.39,5,5,"BHSE ""A""",F1,Székesfehérvár (HUN),2020.9.05
+41.41,6,6,FTC,F1,Budapest (HUN),2020.8.08
+41.43,7,7,felnőtt válogatott,H1,Budapest (HUN),2020.7.25
+41.43,-,7,U23 válogatott,H1,Budapest (HUN),2020.7.25
+41.45,-,9,Szolnoki MÁV-SE,F2,Székesfehérvár (HUN),2020.9.05
+41.64,8,10,U18 válogatott,F1,Budapest (HUN),2020.9.12
+41.78,9,11,GEAC - IKARUS,F1,Székesfehérvár (HUN),2020.9.05
+41.79,10,12,ARAK UP Akadémia,F1,Budapest (HUN),2020.8.08
+41.83,-,13,U20 válogatott,F1,Budapest (HUN),2020.8.29
+41.95,11,14,U18 válogatott 'A',F1,Budapest (HUN),2020.7.25
+41.95,11,14,U20 válogatott 'B',F1,Budapest (HUN),2020.7.25
+41.96,13,16,"U18 ""A"" válogatott",F1,Budapest (HUN),2020.8.29
+41.99,14,17,ZALASZÁM-ZAC,F1,Budapest (HUN),2020.8.08
+42.05,15,18,Dunafok,F1,Székesfehérvár (HUN),2020.9.05
+42.06,16,19,"FTC ""A""",F1,Székesfehérvár (HUN),2020.9.05
+42.07,17,20,vegyes válogatott,F1,Budapest (HUN),2020.8.29
+42.19,-,21,U18 válogatott 'A',H2,Budapest (HUN),2020.7.25
+42.21,18,22,U20 válogatott 'A',H1,Budapest (HUN),2020.7.25
+42.25,-,23,U20 válogatott 'B',H1,Budapest (HUN),2020.7.25
+42.45,19,24,"BHSE ""B""",F3,Székesfehérvár (HUN),2020.9.05
+42.52,20,25,U18 válogatott 'B',F1,Budapest (HUN),2020.7.25
+42.54,-,26,U18 válogatott 'B',H2,Budapest (HUN),2020.7.25
+42.69,-,27,ARAK UP Akadémia,F1,Debrecen (HUN),2020.8.22
+42.81,-,28,FTC,F1,Budapest (HUN),2020.8.15
+43.19,21,29,"FTC ""B""",F3,Székesfehérvár (HUN),2020.9.05
+43.25,-,30,ARAK UP Akadémia,F1,Székesfehérvár (HUN),2020.9.05
+43.98,22,31,Vasas,F1,Budapest (HUN),2020.8.15
+44.08,-,32,BHSE,F1,Debrecen (HUN),2020.8.22
+44.1,23,33,KSI SE,F3,Székesfehérvár (HUN),2020.9.05
+44.12,-,34,BHSE,F1,Budapest (HUN),2020.8.15
+44.31,24,35,AC Bonyhád,F1,Budapest (HUN),2020.8.15
+44.45,25,36,Miskolci Sportiskola,F2,Székesfehérvár (HUN),2020.9.05
+44.58,26,37,Egri Sportiskola SE,F2,Székesfehérvár (HUN),2020.9.05
+44.63,27,38,SavArrA,F1,Székesfehérvár (HUN),2020.9.05
+44.69,28,39,Horn-Bercsényi DSE,F1,Budapest (HUN),2020.8.08
+44.79,29,40,Csepeli DAC,F1,Debrecen (HUN),2020.8.22
+44.85,-,41,Vasas,F1,Budapest (HUN),2020.8.15
+45.1,-,42,FTC,F1,Debrecen (HUN),2020.8.22
+45.13,-,43,ZALASZÁM-ZAC,F1,Budapest (HUN),2020.8.15
+45.4,30,44,Szekszárdi Sportközpont,F1,Debrecen (HUN),2020.8.22
+45.49,31,45,UTE,F1,Tatabánya (HUN),2020.9.2
+45.6,32,46,DOVASE,F2,Székesfehérvár (HUN),2020.9.05
+45.64,33,47,Keszthely VDSE,F2,Székesfehérvár (HUN),2020.9.05
+46.65,34,48,NYSC,F2,Tatabánya (HUN),2020.9.2
+46.76,-,49,Csepeli DAC,F1,Tatabánya (HUN),2020.9.2
+46.86,35,50,Békési DAC,F3,Székesfehérvár (HUN),2020.9.05
+47.12,36,51,TSC-Geotech,F1,Tatabánya (HUN),2020.9.2
+47.14,37,52,Dunakeszi VSE,F2,Tatabánya (HUN),2020.9.2
+49.07,38,53,Albertirsai SE,F3,Székesfehérvár (HUN),2020.9.05
+51.64,39,54,Veresegyház VSK,F2,Tatabánya (HUN),2020.9.2
+51.96,40,55,MAFC,F3,Székesfehérvár (HUN),2020.9.05
+39.86,1,1,Válogatott 'A',F1,Tatabánya (HUN),2021.6.05
+40.47,2,2,"BHSE ""A""",F1,Debrecen (HUN),2021.6.26
+40.54,3,3,Hungary,F1,Budapest (HUN),2021.8.24
+40.69,4,4,FTC,F1,Debrecen (HUN),2021.6.26
+40.83,5,5,Válogatott 'B',F1,Tatabánya (HUN),2021.6.05
+40.97,-,6,"BHSE ""A""",F2,Debrecen (HUN),2021.5.15
+41.38,6,7,U20 válogatott 'A',F1,Győr (HUN),2021.5.29
+41.4,7,8,BHSE,F1,Kecskemét (HUN),2021.5.08
+41.42,8,9,GEAC - Ikarus,F2,Székesfehérvár (HUN),2021.9.11
+41.45,9,10,Konok Kunok,F1,Székesfehérvár (HUN),2021.9.11
+41.8,10,11,FTC A,F2,Székesfehérvár (HUN),2021.9.11
+41.91,-,12,GEAC - Ikarus,F2,Debrecen (HUN),2021.5.15
+41.99,-,13,FTC A,F2,Győr (HUN),2021.5.15
+42.29,11,14,Hungary U18,F1,Budapest (HUN),2021.8.24
+42.35,12,15,"BHSE ""B""",F1,Debrecen (HUN),2021.5.15
+42.4,13,16,Vasas A,F2,Győr (HUN),2021.5.15
+42.45,-,17,"BHSE ""B""",F1,Debrecen (HUN),2021.6.26
+42.45,14,17,Pannon Duo,F2,Székesfehérvár (HUN),2021.9.11
+42.49,15,19,Egri-Tiszi,F2,Debrecen (HUN),2021.5.15
+42.5,-,20,BHSE,F1,Miskolc (HUN),2021.6.12
+42.55,16,21,FTC B,F1,Győr (HUN),2021.5.15
+42.62,17,22,U20 válogatott 'B',F1,Győr (HUN),2021.5.29
+42.69,-,23,Pannon Duo,F2,Győr (HUN),2021.5.15
+42.78,-,24,"BHSE ""A""",F2,Székesfehérvár (HUN),2021.9.11
+42.81,18,25,U23 válogatott 'A',F1,Győr (HUN),2021.5.29
+42.81,-,25,"BHSE ""B""",F1,Székesfehérvár (HUN),2021.9.11
+42.81,18,25,Dunafok,F1,Székesfehérvár (HUN),2021.9.11
+43.0,20,28,SavArrA,F2,Székesfehérvár (HUN),2021.9.11
+43.07,21,29,U18 válogatott 'B',F1,Győr (HUN),2021.5.29
+43.21,22,30,Dunafok A,F2,Debrecen (HUN),2021.5.15
+43.32,23,31,Vasas,F1,Miskolc (HUN),2021.6.12
+43.33,24,32,U18 válogatott 'A',F1,Győr (HUN),2021.5.29
+43.39,25,33,Győri Atlétikai Club,F1,Kecskemét (HUN),2021.5.08
+43.39,-,33,Pannon Duo,F1,Székesfehérvár (HUN),2021.9.11
+43.42,26,35,U23 válogatott 'B',F1,Győr (HUN),2021.5.29
+43.47,27,36,PVSK - AC Bonyhád,F2,Győr (HUN),2021.5.15
+43.54,-,37,FTC,F1,Kecskemét (HUN),2021.5.08
+43.61,28,38,UTE,F1,Kecskemét (HUN),2021.5.08
+43.69,29,39,ARAK UP Akadémia,F1,Kecskemét (HUN),2021.5.08
+43.97,-,40,SavArrA,F2,Győr (HUN),2021.5.15
+44.42,-,41,ARAK UP Akadémia,H1,Kecskemét (HUN),2021.5.08
+44.46,30,42,Csepeli DAC,F2,Debrecen (HUN),2021.5.15
+44.59,-,43,Csepeli DAC,F1,Kecskemét (HUN),2021.5.08
+44.61,31,44,Ikarus BSE,F1,Kecskemét (HUN),2021.5.08
+44.75,32,45,Vasas B,F1,Győr (HUN),2021.5.15
+44.82,33,46,NYSC,F1,Kecskemét (HUN),2021.5.08
+45.04,-,47,Győri Atlétikai Club,F1,Kecskemét (HUN),2021.5.08
+45.04,34,47,Szekszárdi Sportközpont,F1,Kecskemét (HUN),2021.5.08
+45.24,-,49,UTE,H1,Kecskemét (HUN),2021.5.08
+45.25,-,50,Csepeli DAC,H2,Kecskemét (HUN),2021.5.08
+45.25,35,50,Dunafok B,F1,Debrecen (HUN),2021.5.15
+45.46,-,52,NYSC,H1,Kecskemét (HUN),2021.5.08
+45.57,-,53,BHSE,F1,Kecskemét (HUN),2021.5.08
+45.64,36,54,Szekszárd-Dombóvár,F2,Győr (HUN),2021.5.15
+45.71,-,55,Szekszárdi Sportközpont,H2,Kecskemét (HUN),2021.5.08
+45.88,-,56,Győri Atlétikai Club,H1,Kecskemét (HUN),2021.5.08
+45.89,-,57,BHSE,H2,Kecskemét (HUN),2021.5.08
+46.01,-,58,ARAK UP Akadémia,F1,Kecskemét (HUN),2021.5.08
+46.01,-,58,Csepeli DAC,F1,Kecskemét (HUN),2021.5.08
+46.11,37,60,Tiszaújvárosi SC,F1,Kecskemét (HUN),2021.5.08
+46.84,-,61,Tiszaújvárosi SC,H1,Kecskemét (HUN),2021.5.08
+46.88,-,62,Győri Atlétikai Club,F1,Miskolc (HUN),2021.6.12
+46.91,38,63,TSC-Geotech,H2,Kecskemét (HUN),2021.5.08
+46.91,38,63,VSD,H2,Kecskemét (HUN),2021.5.08
+47.12,-,65,Győri Atlétikai Club,F1,Kecskemét (HUN),2021.5.08
+47.17,40,66,Csömöri Postások,F2,Debrecen (HUN),2021.5.15
+47.27,41,67,Haladás VSE B,F1,Győr (HUN),2021.5.15
+47.29,42,68,GEAC,F1,Kecskemét (HUN),2021.5.08
+47.31,43,69,Békési DAC,F1,Debrecen (HUN),2021.5.15
+47.51,-,70,Ikarus BSE,F1,Kecskemét (HUN),2021.5.08
+48.73,44,71,Albertirsai SE,F1,Debrecen (HUN),2021.5.15
+49.1,45,72,Szolnoki SC-SI,F1,Kecskemét (HUN),2021.5.08
+50.98,-,73,GEAC,H1,Kecskemét (HUN),2021.5.08
+51.57,-,74,GEAC,F1,Kecskemét (HUN),2021.5.08
+52.33,-,75,Szolnoki SC-SI,H2,Kecskemét (HUN),2021.5.08
+52.42,-,76,Győri Atlétikai Club,F1,Kecskemét (HUN),2021.5.08
+52.46,-,77,Szolnoki SC-SI,F1,Kecskemét (HUN),2021.5.08
+52.67,-,78,UTE,F1,Kecskemét (HUN),2021.5.08
+52.75,46,79,MAFC,F2,Debrecen (HUN),2021.5.15
+52.89,-,80,ARAK UP Akadémia,H2,Kecskemét (HUN),2021.5.08
+52.95,47,81,ZALASZÁM-ZAC,F1,Kecskemét (HUN),2021.5.08
+53.11,-,82,UTE,H2,Kecskemét (HUN),2021.5.08
+53.23,-,83,Győri Atlétikai Club,H2,Kecskemét (HUN),2021.5.08
+53.29,-,84,ZALASZÁM-ZAC,H2,Kecskemét (HUN),2021.5.08
+53.4,-,85,ARAK UP Akadémia,F1,Kecskemét (HUN),2021.5.08
+54.01,48,86,ELTE SE Sashegyi gepárdok,F1,Debrecen (HUN),2021.5.15
+54.62,49,87,SVSE,H1,Kecskemét (HUN),2021.5.08
+55.42,-,88,TSC-Geotech,H1,Kecskemét (HUN),2021.5.08
+55.74,50,89,Salgótarjáni AC,H2,Kecskemét (HUN),2021.5.08
+55.87,-,90,Szekszárdi Sportközpont,H1,Kecskemét (HUN),2021.5.08
+56.01,51,91,Egri Sportiskola SE,H1,Kecskemét (HUN),2021.5.08
+56.21,-,92,SVSE,F1,Kecskemét (HUN),2021.5.08
+56.55,52,93,VEDAC,H1,Kecskemét (HUN),2021.5.08
+58.93,-,94,Győri Atlétikai Club,H1,Kecskemét (HUN),2021.5.08
+40.03,1,1,HUN,F1,Győr (HUN),2022.8.05
+40.93,2,2,"BHSE ""A""",F1,Budapest (HUN),2022.6.24
+40.93,2,2,Vasas,F1,Budapest (HUN),2022.6.24
+41.26,4,4,ARAK UP Akadémia,F1,Budapest (HUN),2022.6.24
+41.31,-,5,"BHSE ""A""",F2,Miskolc (HUN),2022.5.14
+41.43,5,6,FTC,F1,Budapest (HUN),2022.6.24
+41.64,-,7,FTC,F1,Miskolc (HUN),2022.7.09
+41.72,6,8,Ikarus BSE,F2,Miskolc (HUN),2022.5.14
+41.73,7,9,Szolnoki MÁV-SE,F1,Budapest (HUN),2022.6.24
+41.74,8,10,A,F1,Győr (HUN),2022.9.03
+41.84,-,11,A,F1,Budapest (HUN),2022.6.05
+41.95,9,12,"BHSE ""B""",F1,Debrecen (HUN),2022.9.17
+41.97,10,13,U18 váltó,F1,Győr (HUN),2022.8.05
+42.07,-,14,ARAK UP Akadémia,F1,Kecskemét (HUN),2022.5.07
+42.13,11,15,"ARAK UP Akadémia ""A""",F2,Debrecen (HUN),2022.9.17
+42.27,12,16,Vasas A,F1,Győr (HUN),2022.5.14
+42.29,-,17,"BHSE ""A""",F3,Debrecen (HUN),2022.9.17
+42.34,-,18,"BHSE ""B""",F1,Budapest (HUN),2022.6.24
+42.35,-,19,Szolnoki MÁV-SE,F2,Miskolc (HUN),2022.5.14
+42.36,-,20,Ikarus BSE,F3,Debrecen (HUN),2022.9.17
+42.43,13,21,Hungary U20,F,Maribor (SLO),2022.7.16
+42.45,-,22,Vasas,F1,Miskolc (HUN),2022.7.09
+42.5,-,23,FTC,F1,Győr (HUN),2022.5.14
+42.55,-,24,ARAK UP Akadémia,F1,Győr (HUN),2022.5.14
+42.58,14,25,B,F1,Budapest (HUN),2022.6.05
+42.61,15,26,Győri Atlétikai Club,F1,Budapest (HUN),2022.6.24
+42.78,-,27,FTC,F3,Debrecen (HUN),2022.9.17
+42.84,-,28,A,F1,Győr (HUN),2022.9.03
+42.84,16,28,"MATE - GEAC ""A""",F3,Debrecen (HUN),2022.9.17
+42.97,17,30,BHSE,F1,Kecskemét (HUN),2022.5.07
+42.97,17,30,DSC-SI,F2,Miskolc (HUN),2022.5.14
+43.0,-,32,"BHSE ""B""",F1,Miskolc (HUN),2022.5.14
+43.18,19,33,Csepeli DAC,F2,Győr (HUN),2022.5.14
+43.18,19,33,EVSI,F1,Miskolc (HUN),2022.5.14
+43.27,-,35,B,F1,Győr (HUN),2022.9.03
+43.28,-,36,Ikarus BSE,F1,Kecskemét (HUN),2022.5.07
+43.33,-,37,Győri Atlétikai Club,F1,Kecskemét (HUN),2022.5.07
+43.4,21,38,Vasas Bé,F2,Győr (HUN),2022.5.14
+43.43,22,39,PVSK,F1,Kecskemét (HUN),2022.5.07
+43.45,-,40,Csepeli DAC,F1,Kecskemét (HUN),2022.5.07
+43.47,-,41,ARAK UP Akadémia,F1,Kecskemét (HUN),2022.5.07
+43.51,-,42,PVSK,F2,Debrecen (HUN),2022.9.17
+43.54,-,43,PVSK,F1,Győr (HUN),2022.5.14
+43.58,23,44,TSC-Geotech,F1,Győr (HUN),2022.5.14
+43.61,24,45,MTK Budapest,F1,Győr (HUN),2022.5.14
+43.73,25,46,Budapest,F,Ljubljana (SLO),2022.6.27
+43.91,-,47,Győri Atlétikai Club,F2,Debrecen (HUN),2022.9.17
+43.92,-,48,ARAK UP Akadémia,F2,Győr (HUN),2022.5.14
+43.93,-,49,Csepeli DAC,F1,Kecskemét (HUN),2022.5.07
+43.94,-,50,B,F1,Győr (HUN),2022.9.03
+43.97,26,51,UTE,F1,Kecskemét (HUN),2022.5.07
+44.07,-,52,UTE,F2,Miskolc (HUN),2022.5.14
+44.1,-,53,Győri Atlétikai Club,F1,Kecskemét (HUN),2022.5.07
+44.13,27,54,"ARAK UP Akadémia ""B""",F1,Debrecen (HUN),2022.9.17
+44.3,28,55,Szekszárdi Sportközpont,F1,Kecskemét (HUN),2022.5.07
+44.39,29,56,NYSC,F1,Kecskemét (HUN),2022.5.07
+44.61,-,57,NYSC,F2,Miskolc (HUN),2022.5.14
+44.65,-,58,DSC-SI,F3,Debrecen (HUN),2022.9.17
+44.74,30,59,Nyíregyházi Sportcentrum,F2,Debrecen (HUN),2022.9.17
+44.87,31,60,Hungary U16,F,Znojmo (CZE),2022.9.24
+44.94,32,61,Keszthely VDSE,F2,Győr (HUN),2022.5.14
+44.97,33,62,"MATE - GEAC ""B""",F1,Debrecen (HUN),2022.9.17
+45.01,-,63,Győri Atlétikai Club,F1,Győr (HUN),2022.5.14
+45.11,-,64,MTK Budapest,F3,Debrecen (HUN),2022.9.17
+45.25,-,65,ARAK UP Akadémia,F1,Kecskemét (HUN),2022.5.07
+45.29,-,66,Szekszárdi Sportközpont,F2,Győr (HUN),2022.5.14
+45.33,34,67,DVTK,F2,Miskolc (HUN),2022.5.14
+45.64,35,68,TFSE,F2,Győr (HUN),2022.5.14
+45.72,-,69,ARAK UP Akadémia,H2,Kecskemét (HUN),2022.5.07
+45.72,36,69,MATE - GEAC,F2,Miskolc (HUN),2022.5.14
+45.74,37,71,KSI SE,F1,Miskolc (HUN),2022.7.09
+45.91,-,72,Győri Atlétikai Club,H1,Kecskemét (HUN),2022.5.07
+46.15,-,73,KSI SE,F1,Miskolc (HUN),2022.5.14
+46.24,38,74,ZALASZÁM-ZAC,F1,Kecskemét (HUN),2022.5.07
+46.26,39,75,Békési DAC,F1,Miskolc (HUN),2022.5.14
+46.35,-,76,TSC-Geotech,F1,Kecskemét (HUN),2022.5.07
+46.44,40,77,Szolnoki SC-SI,F1,Kecskemét (HUN),2022.5.07
+46.5,41,78,SVSE,F1,Győr (HUN),2022.5.14
+46.52,-,79,ZALASZÁM-ZAC,H1,Kecskemét (HUN),2022.5.07
+46.58,-,80,Szolnoki SC-SI,H1,Kecskemét (HUN),2022.5.07
+47.08,42,81,POSTÁS SE,F1,Miskolc (HUN),2022.5.14
+47.14,-,82,Ikarus BSE,H1,Kecskemét (HUN),2022.5.07
+47.32,-,83,MATE - GEAC,H2,Kecskemét (HUN),2022.5.07
+47.34,-,84,Ikarus BSE,F1,Kecskemét (HUN),2022.5.07
+47.6,-,85,Szolnoki SC-SI,F1,Szolnok (HUN),2022.4.23
+47.83,-,86,MATE - GEAC,F1,Kecskemét (HUN),2022.5.07
+47.85,43,87,Albertirsai SE,F1,Miskolc (HUN),2022.5.14
+48.76,44,88,Dobó SE,F2,Győr (HUN),2022.5.14
+48.81,-,89,Szekszárdi Sportközpont,H1,Kecskemét (HUN),2022.5.07
+49.01,-,90,SVSE,F1,Kecskemét (HUN),2022.5.07
+49.04,-,91,Szekszárdi Sportközpont,F1,Kecskemét (HUN),2022.5.07
+49.51,-,92,SVSE,H2,Kecskemét (HUN),2022.5.07
+49.79,-,93,Győri Atlétikai Club,F1,Kecskemét (HUN),2022.5.07
+49.81,45,94,VEDAC,H2,Kecskemét (HUN),2022.5.07
+51.03,-,95,MATE - GEAC,F1,Kecskemét (HUN),2022.5.07
+51.49,-,96,MATE - GEAC,H1,Kecskemét (HUN),2022.5.07
+51.56,-,97,Szolnoki SC-SI,F1,Kecskemét (HUN),2022.5.07
+51.73,-,98,Szolnoki SC-SI,H1,Kecskemét (HUN),2022.5.07
+52.59,-,99,VEDAC,H1,Kecskemét (HUN),2022.5.07
+52.76,-,100,Győri Atlétikai Club,F1,Kecskemét (HUN),2022.5.07
+52.79,-,101,VEDAC,F1,Kecskemét (HUN),2022.5.07
+52.84,46,102,TSC-Geotech A,F1,Kecskemét (HUN),2022.5.07
+52.99,-,103,TSC-Geotech A,H1,Kecskemét (HUN),2022.5.07
+53.01,-,104,Győri Atlétikai Club,H2,Kecskemét (HUN),2022.5.07
+53.25,-,105,Ikarus BSE,F1,Kecskemét (HUN),2022.5.07
+53.26,47,106,Szombathelyi SI,H2,Kecskemét (HUN),2022.5.07
+53.49,-,107,ZALASZÁM-ZAC,H2,Kecskemét (HUN),2022.5.07
+53.52,-,108,NYSC,F1,Kecskemét (HUN),2022.5.07
+53.54,48,109,MAFC,F1,Miskolc (HUN),2022.5.14
+53.62,-,110,NYSC,H2,Kecskemét (HUN),2022.5.07
+53.85,-,111,ZALASZÁM-ZAC,F1,Kecskemét (HUN),2022.5.07
+54.04,-,112,Ikarus BSE,H1,Kecskemét (HUN),2022.5.07
+54.26,-,113,UTE,H2,Kecskemét (HUN),2022.5.07
+56.06,49,114,Csömöri havasok,F1,Miskolc (HUN),2022.5.14
+56.71,50,115,TSC-Geotech B,H2,Kecskemét (HUN),2022.5.07
+57.26,51,116,Viadukt SE,H1,Kecskemét (HUN),2022.5.07
+39.6,1,1,HUN,F1,Budapest (HUN),2023.5.2
+41.28,2,2,Vasas,F2,Budapest (HUN),2023.9.09
+41.4,3,3,HUN U20,F1,Budapest (HUN),2023.5.2
+41.57,4,4,HUN U18,F1,Budapest (HUN),2023.5.2
+41.87,5,5,BHSE,F1,Kecskemét (HUN),2023.9.02
+41.88,6,6,BHSE 'A',F2,Budapest (HUN),2023.9.09
+41.91,7,7,U18-U20 HUN,F1,Budapest (HUN),2023.5.2
+41.91,-,8,Vasas,F1,Kecskemét (HUN),2023.9.02
+42.04,8,9,ARAK UP Akadémia,F1,Kecskemét (HUN),2023.9.02
+42.47,-,10,ARAK UP Akadémia,F1,Budapest (HUN),2023.7.07
+42.47,-,10,ARAK UP Akadémia,F2,Budapest (HUN),2023.9.09
+42.49,-,12,BHSE,F1,Győr (HUN),2023.6.24
+42.52,-,13,BHSE,F1,Budapest (HUN),2023.7.07
+42.52,9,14,UTE,F1,Kecskemét (HUN),2023.9.02
+42.62,10,15,MATE - GEAC 'A',F2,Budapest (HUN),2023.9.09
+43.04,11,16,Ikarus BSE A,F2,Budapest (HUN),2023.9.09
+43.05,12,17,Győri Atlétikai Club,F1,Budapest (HUN),2023.7.07
+43.08,13,18,Csepeli DAC,F1,Budapest (HUN),2023.7.07
+43.15,14,19,FTC,F2,Budapest (HUN),2023.9.09
+43.29,15,20,ARAK UP Akadémia B,F1,Budapest (HUN),2023.9.09
+43.39,16,21,PVSK,F2,Budapest (HUN),2023.9.09
+43.63,-,22,Csepeli DAC,F1,Budapest (HUN),2023.5.07
+43.67,17,23,Győri Atlétikai Club - 1.,F2,Budapest (HUN),2023.9.09
+43.71,-,24,ARAK UP Akadémia,F1,Budapest (HUN),2023.5.07
+43.71,-,24,Csepeli DAC,F2,Budapest (HUN),2023.9.09
+44.12,18,26,Ikarus BSE B,F1,Budapest (HUN),2023.9.09
+44.22,19,27,Vasas B,F1,Budapest (HUN),2023.9.09
+44.28,20,28,DSC-SI,F1,Budapest (HUN),2023.7.07
+44.28,20,28,Ikarus BSE,F1,Budapest (HUN),2023.7.07
+44.32,22,30,AC Bonyhád,F1,Budapest (HUN),2023.9.09
+44.57,-,31,Győri Atlétikai Club,F1,Győr (HUN),2023.6.24
+44.65,23,32,Szekszárdi Sportközpont,F1,Budapest (HUN),2023.7.07
+44.96,24,33,ZALASZÁM-ZAC,F1,Budapest (HUN),2023.7.07
+45.01,-,34,Ikarus BSE,F1,Budapest (HUN),2023.5.07
+45.11,-,35,UTE,F1,Győr (HUN),2023.6.24
+45.15,25,36,KARC,H2,Budapest (HUN),2023.5.07
+45.25,-,37,KARC,F1,Budapest (HUN),2023.5.07
+45.35,26,38,ZALASZÁM-ZAC Abszolút,F1,Zalaegerszeg (HUN),2023.6.1
+45.4,27,39,Keszthely VDSE,F1,Budapest (HUN),2023.9.09
+45.47,-,40,ZALASZÁM-ZAC,F1,Budapest (HUN),2023.5.07
+45.84,-,41,Győri Atlétikai Club,F1,Budapest (HUN),2023.5.07
+45.88,-,42,Szekszárdi Sportközpont,F2,Budapest (HUN),2023.9.09
+45.97,28,43,Haladás VSE,F1,Budapest (HUN),2023.9.09
+46.09,-,44,Győri Atlétikai Club,H1,Budapest (HUN),2023.5.07
+46.16,29,45,UTE A,F1,Budapest (HUN),2023.5.07
+46.18,30,46,MATE - GEAC 'B',F1,Budapest (HUN),2023.9.09
+46.22,31,47,Szolnoki SC-SI,F1,Budapest (HUN),2023.5.07
+46.3,32,48,Békési DAC,F1,Budapest (HUN),2023.9.09
+46.35,-,49,Szolnoki SC-SI,H2,Budapest (HUN),2023.5.07
+46.47,33,50,MATE - GEAC,F1,Budapest (HUN),2023.5.07
+46.51,-,51,UTE A,H1,Budapest (HUN),2023.5.07
+46.56,-,52,ARAK UP Akadémia,F1,Budapest (HUN),2023.5.07
+46.74,-,53,Szolnoki SC-SI,F1,Budapest (HUN),2023.5.07
+46.91,34,54,Salgótarjáni AC,F1,Budapest (HUN),2023.9.09
+47.01,35,55,"MTK Budapest ""A""",F1,Budapest (HUN),2023.5.07
+47.04,-,56,ARAK UP Akadémia,H2,Budapest (HUN),2023.5.07
+47.13,-,57,MATE - GEAC,H1,Budapest (HUN),2023.5.07
+47.24,36,58,ZALASZÁM-ZAC U16,F1,Zalaegerszeg (HUN),2023.6.1
+47.37,-,59,"MTK Budapest ""A""",H1,Budapest (HUN),2023.5.07
+47.49,-,60,BHSE,H1,Budapest (HUN),2023.5.07
+48.0,37,61,POSTÁS SE,F1,Budapest (HUN),2023.9.09
+48.05,38,62,Dobó SE,F2,Budapest (HUN),2023.9.09
+48.18,-,63,Salgótarjáni AC,F1,Budapest (HUN),2023.7.07
+48.56,39,64,TSC-Geotech,H1,Budapest (HUN),2023.5.07
+48.92,40,65,VEDAC,H2,Budapest (HUN),2023.5.07
+49.58,41,66,Albertirsai SE,F1,Budapest (HUN),2023.9.09
+50.06,42,67,SZVSE,F2,Budapest (HUN),2023.9.09
+50.89,43,68,Csömöri havasok,F2,Budapest (HUN),2023.9.09
+51.47,44,69,"MTK Budapest ""B""",H2,Budapest (HUN),2023.5.07
+52.46,45,70,KASI,H2,Budapest (HUN),2023.5.07
+52.67,46,71,UTE B,H2,Budapest (HUN),2023.5.07
+54.03,47,72,Viadukt SE,H1,Budapest (HUN),2023.5.07
+55.79,48,73,ZALASZÁM-ZAC U14,F1,Zalaegerszeg (HUN),2023.6.1
+57.25,49,74,ZALASZÁM-ZAC U14 B,F1,Zalaegerszeg (HUN),2023.6.1
+40.86,1,1,ARAK,F1,Budapest (HUN),2024.6.29
+41.6,2,2,Szolnoki MÁV-SE,F1,Budapest (HUN),2024.6.29
+41.66,3,3,BHSE,F1,Budapest (HUN),2024.6.29
+42.47,-,4,ARAK,F1,Szolnok (HUN),2024.7.27
+42.92,-,5,BHSE,F1,Szolnok (HUN),2024.7.27
+42.95,-,6,BHSE,F1,Kaposvár (HUN),2024.5.18
+43.15,-,7,ARAK,F1,Kaposvár (HUN),2024.5.18
+43.28,4,8,UTE,F1,Kaposvár (HUN),2024.5.18
+43.51,-,9,ARAK,F1,Kaposvár (HUN),2024.5.18
+43.78,-,10,UTE,F1,Kaposvár (HUN),2024.5.18
+43.82,5,11,Győri Atlétikai Club,F1,Szolnok (HUN),2024.7.27
+43.9,6,12,Haladás VSE,F1,Kaposvár (HUN),2024.5.18
+43.9,6,12,MATE - GEAC,F1,Kaposvár (HUN),2024.5.18
+44.27,8,14,A-Plast Ikarus BSE,F1,Kaposvár (HUN),2024.5.18
+44.35,-,15,Győri Atlétikai Club,F1,Kaposvár (HUN),2024.5.18
+44.68,9,16,KASI,F1,Kaposvár (HUN),2024.5.18
+44.76,10,17,Szekszárdi Sportközpont,F1,Kaposvár (HUN),2024.5.18
+45.0,11,18,Szombathelyi SI,F1,Kaposvár (HUN),2024.5.18
+45.38,-,19,BHSE,H1,Kaposvár (HUN),2024.5.18
+45.74,-,20,Szombathelyi SI,H2,Kaposvár (HUN),2024.5.18
+45.98,-,21,Győri Atlétikai Club,F1,Kaposvár (HUN),2024.5.18
+46.09,12,22,MMAC,F1,Kaposvár (HUN),2024.5.18
+46.27,-,23,Győri Atlétikai Club,H1,Kaposvár (HUN),2024.5.18
+46.96,13,24,TSC-Geotech,F1,Kaposvár (HUN),2024.5.18
+47.15,-,25,A-Plast Ikarus BSE,F1,Kaposvár (HUN),2024.5.18
+47.19,-,26,TSC-Geotech,H2,Kaposvár (HUN),2024.5.18
+47.58,-,27,A-Plast Ikarus BSE,H1,Kaposvár (HUN),2024.5.18
+47.76,14,28,ZALASZÁM-ZAC,F1,Kaposvár (HUN),2024.5.18
+47.9,-,29,ZALASZÁM-ZAC,H2,Kaposvár (HUN),2024.5.18
+48.06,-,30,ARAK,H1,Kaposvár (HUN),2024.5.18
+48.11,-,31,KASI,H2,Kaposvár (HUN),2024.5.18
+48.32,-,32,KASI,F1,Kaposvár (HUN),2024.5.18
+48.5,-,33,ARAK,F1,Kaposvár (HUN),2024.5.18
+49.08,15,34,Csepel TC,H1,Kaposvár (HUN),2024.5.18
+49.86,16,35,HALAS AC,H1,Kaposvár (HUN),2024.5.18
