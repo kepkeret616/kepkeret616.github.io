@@ -237,7 +237,32 @@ allData = {};
 
 function init() {
 
-    filenames.forEach(function (filename) {
+    var csv = readTextFile('all.csv');
+    var lines = csv.split("\n");
+    var key = lines[1];
+    var headers = lines[2].split(",");
+    var result = [];
+    for (var i = 3; i < lines.length; i++) {
+
+        if (lines[i] == "NEW") {
+            allData[key] = result;
+            key = lines[i+1];
+            headers = lines[i+2].split(",");
+            result = [];
+            i+=2;
+            continue;
+        }
+
+        var currentline = lines[i].split(",");
+        var obj = {};
+        for (var j = 0; j < headers.length; j++) {
+            obj[headers[j]] = currentline[j];
+        }
+        result.push(obj);
+    }
+
+
+    /*filenames.forEach(function (filename) {
         var csv = readTextFile('toplists/' + filename + '.csv');
         var lines = csv.split("\n");
         var result = [];
@@ -251,7 +276,7 @@ function init() {
             result.push(obj);
         }
         allData[filename] = result;
-    });
+    });*/
 
     var allnames = findNames();
 
