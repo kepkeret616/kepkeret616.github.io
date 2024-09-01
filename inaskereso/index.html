@@ -69,7 +69,7 @@
     <h1>Inaskereső v2</h1>
     <div id="inputcont">
         <input id="input" class="first" list="dlist" placeholder="Az inas neve" oninput="onInput()">
-        <input id="input2" class="first" list="dlist2" placeholder="Start typing..." oninput="onInput2()">
+        <input id="input2" onfocus="this.value = '';" class="first" list="dlist2" placeholder="Start typing..." oninput="onInput2()">
     </div>
 
     <div id="plots"></div>
