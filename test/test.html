@@ -9,71 +9,148 @@
       margin: 0;
       padding: 0;
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen;
-      background-color: #f9f9f9;
+      background-color: #fcfcfc;
       color: #333;
       display: flex;
-      flex-direction: column;
-      min-height: 100vh;
+      justify-content: center;
+      align-items: center;
+      font-variant: small-caps;
+      height: 100vh;;
     }
     .container {
-      flex: 1;
-      max-width: 600px;
-      margin: 0 auto;
+      width: 90%;
       padding: 20px;
+      background: linear-gradient(to bottom, #fcfcfc 0%, #27edb2 100%);
+      border-radius: 8px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      text-align: center;
+      position: relative;
+      height: 100%;
     }
     h1 {
-      text-align: center;
+      font-size: 1.55em;
       margin-bottom: 1em;
-      font-size: 1.8em;
+      font-variant: small-caps;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      transition: all 3s ease;
+    }
+    .reveal h1 {
+      top: 10%;
+      transform: translate(-50%, 0);
+    }
+    #content {
+      opacity: 0;
+      transition: opacity 3s ease-in-out;
+      margin-top: 60%;
+    }
+    .reveal #content {
+      opacity: 1;
     }
     p {
       line-height: 1.6;
       margin-bottom: 1em;
     }
-    .divider {
-      border-top: 1px solid #ccc;
-      margin: 2em 0;
-    }
     #reveal-btn {
-      display: block;
-      width: 80%;
-      margin: 0 auto;
+      display: inline-block;
+      margin-top: 1em;
       padding: 12px 24px;
       font-size: 1em;
+      cursor: pointer;
       border: none;
       border-radius: 5px;
       background-color: #007aff;
       color: white;
-      cursor: pointer;
       box-shadow: 0 2px 5px rgba(0,0,0,0.2);
       transition: background-color 0.2s ease;
+      font-variant: small-caps;
+      width: 80%;
     }
     #reveal-btn:hover {
       background-color: #005bb5;
     }
-    footer {
-      text-align: center;
-      padding: 1em 0;
-      font-size: 0.9em;
-      color: #666;
+    #bc-image {
+        opacity: 0;
+        background-image: url('er.jpg');
+        background-size: cover;
+        background-position: center;
+        transition: opacity 4s ease-in-out;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100vh;
+    }
+    #bc-image.reveal {
+      opacity: 1;
+    }
+    #ticket {
+      opacity: 0;
+      background-image: url('ticket.png');
+      background-repeat: no-repeat;
+      background-size: contain;
+      background-color: white;
+      background-position: center top 20%;
+      height: 100vh;
+      width: 100%;
+      position: fixed;
+      top: 0;
+      left: 0;
+      margin: 0;
+      padding: 0;
+      transition: opacity 4s ease-in-out;
+    }
+    #ticket.reveal {
+      opacity: 1;
+    }
+    #page.disappear {
+      opacity: 0;
+      transition: opacity 2s ease-in-out;
     }
   </style>
 </head>
 <body>
-  <div class="container">
-    <h1>Különleges este vár rád...</h1>
-    <p>Van egy hang, amit az évek sem tudtak elhalványítani.</p>
-    <p>Egy estére most újra hallhatod... élőben.</p>
-    <p>Nem mondjuk ki, ki az - de annyit elárulunk: ő az, aki szerint „nincs nálad szebb..."</p>
-    <p>Ha ismerős a sor, már sejtheted is.</p>
-    <div class="divider"></div>
-    <button id="reveal-btn">Tovább</button>
+   <div id="bc-image"></div>
+  <div id="ticket"></div>
+  <div class="container" id="page">
+    <h1 id="headline">Egy különleges este vár rád...</h1>
+    <div id="content">
+      <p>Van egy hang, amit az évek sem tudtak elhalványítani, amire generációk nőttek fel.</p>
+      <p>Egy estére most újra hallhatod... élőben.</p>
+      <p>Nem mondjuk ki, ki az - de annyit elárulunk: ő az, aki szerint ez a „legszebb dolog", vagy jobban hangzana inkább olaszul...</p>
+      <p>Ha ismerős a sor, már sejtheted is... ha nem, segítünk!</p>
+      <div class="divider"></div>
+      <div class="hint" id="hint"></div>
+      <button id="reveal-btn" onclick="rev()">Megfejtés</button>
+    </div>
   </div>
+  <audio id="audio" src="er.mp3" preload="auto"></audio>
   <script>
-    document.getElementById('reveal-btn').addEventListener('click', function() {
-      document.getElementById('ticket-container').style.display = 'block';
-      this.style.display = 'none';
+    window.addEventListener('load', () => {
+      setTimeout(() => {
+        page.classList.add('reveal');
+      }, 1000);
     });
+    function rev() {
+      const audio = document.getElementById('audio');
+      const image = document.getElementById('bc-image');
+      const ticket = document.getElementById('ticket');
+      const btn = document.getElementById('reveal-btn');
+      const page = document.getElementById('page');
+
+      page.classList.add('disappear');
+      btn.style.display = 'none';
+      audio.play();
+
+      image.classList.add('reveal');
+
+      setTimeout(() => {
+        image.classList.remove('reveal');
+        ticket.classList.add('reveal');
+      }, 5000);
+    }
   </script>
 </body>
 </html>
